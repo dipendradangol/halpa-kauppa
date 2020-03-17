@@ -1,0 +1,2 @@
+2020-03-16T07:41:34+00:00 CRITICAL Out of memory (allocated 20971520) (tried to allocate 20480 bytes) in C:\xampp\htdocs\halpa-kauppa\wp-content\plugins\woocommerce-gateway-stripe\includes\class-wc-gateway-stripe.php on line 960
+
